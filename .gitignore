@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+output/
+output_scraplings/
 # C extensions
 *.so
-
+.claude
 /data/
 # Distribution / packaging
 .Python
